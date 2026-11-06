@@ -1,4 +1,16 @@
-# Vision Picking Robot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vision-picking-robot/.github/main/profile/assets/banner.svg" alt="Vision Picking Robot — RFID, Computer Vision and Robotics" width="100%" />
+</p>
+
+<h2 align="center">물체를 보고, 태그를 읽고, 목적지로 옮깁니다.</h2>
+
+<p align="center">
+  <a href="https://github.com/vision-picking-robot/demo-repository"><b>프로젝트 저장소</b></a> ·
+  <a href="https://github.com/vision-picking-robot/demo-repository/blob/main/robot_rfid/README.md">시작하기</a> ·
+  <a href="https://github.com/vision-picking-robot/demo-repository/issues">이슈</a>
+</p>
+
+---
 
 RFID로 작업 정보를 확인하고, 비전으로 물체를 찾아 로봇팔로 분류·적치하는 시스템을 개발합니다.
 

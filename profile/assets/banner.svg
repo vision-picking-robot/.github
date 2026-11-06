@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1426"/><stop offset="1" stop-color="#142c3d"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#70cfff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="20" fill="url(#grid)"/>
+  <rect x="55" y="62" width="5" height="30" rx="2" fill="#4de0ce"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="78" y="84" fill="#69e5d4" font-size="18" letter-spacing="4">VISION PICKING ROBOT</text>
+    <text x="55" y="166" fill="#f1f6ff" font-size="57" font-weight="700">See. Identify.</text>
+    <text x="55" y="232" fill="#f1f6ff" font-size="57" font-weight="700">Pick. Place.</text>
+    <text x="58" y="280" fill="#a4b9cf" font-size="20">RFID + Computer Vision + Robotics</text>
+    <g font-size="14" fill="#c5e7f1" text-anchor="middle">
+      <rect x="56" y="327" width="110" height="34" rx="17" fill="#203b50"/><text x="111" y="349">USB / BLE</text>
+      <rect x="178" y="327" width="100" height="34" rx="17" fill="#203b50"/><text x="228" y="349">YOLOv8</text>
+      <rect x="290" y="327" width="100" height="34" rx="17" fill="#203b50"/><text x="340" y="349">FastAPI</text>
+    </g>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="922" cy="210" r="148" stroke="#60dcca" stroke-opacity=".15" stroke-dasharray="5 10"/>
+    <path d="M760 361H1110" stroke="#45637c" stroke-width="3"/>
+    <path d="M815 352V315H870V352" stroke="#91afca" stroke-width="12"/>
+    <path d="M842 309L792 212L892 135L970 216" stroke="#d3e4f4" stroke-width="23"/>
+    <path d="M842 309L792 212L892 135L970 216" stroke="#4de0ce" stroke-width="3"/>
+    <g fill="#142a3f" stroke="#68dfd1" stroke-width="5"><circle cx="842" cy="309" r="15"/><circle cx="792" cy="212" r="18"/><circle cx="892" cy="135" r="18"/><circle cx="970" cy="216" r="13"/></g>
+    <path d="M970 231V247M948 249H992M948 249V269L956 279M992 249V269L984 279" stroke="#d3e4f4" stroke-width="7"/>
+    <path d="M1012 305L1048 285L1084 305V345L1048 363L1012 345ZM1012 305L1048 325L1084 305M1048 325V363" stroke="#dfb775" stroke-width="3"/>
+    <path d="M1000 287V276H1015M1080 276H1097V291M1097 348V363H1082M1013 363H998V348" stroke="#4de0ce" stroke-width="3"/>
+    <path d="M983 282L1024 294" stroke="#4de0ce" stroke-opacity=".6" stroke-dasharray="3 6" stroke-width="2"/>
+  </g>
+  <text x="820" y="405" fill="#7297af" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3">ROBOTICS · VISION · AUTOMATION</text>
+</svg>
