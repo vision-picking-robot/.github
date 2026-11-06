@@ -4,12 +4,6 @@
 
 <p align="center"><strong>물체를 보고, 태그를 읽고, 목적지로 옮깁니다.</strong></p>
 
-<p align="center">
-  <a href="https://github.com/vision-picking-robot/rfid-pick-and-place"><b>프로젝트 저장소</b></a> ·
-  <a href="https://github.com/vision-picking-robot/rfid-pick-and-place/blob/main/robot_rfid/README.md">시작하기</a> ·
-  <a href="https://github.com/vision-picking-robot/rfid-pick-and-place/issues">이슈</a>
-</p>
-
 ---
 
 RFID로 작업 정보를 확인하고, 비전으로 물체를 찾아 로봇팔로 분류·적치하는 시스템을 개발합니다.
