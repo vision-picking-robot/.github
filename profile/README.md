@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vision-picking-robot/.github/main/profile/assets/banner.svg" alt="Vision Picking Robot — RFID, Computer Vision and Robotics" width="100%" />
+  <img src="https://raw.githubusercontent.com/vision-picking-robot/.github/main/profile/assets/banner.png" alt="Vision Picking Robot — See. Identify. Pick. Place. RFID + Computer Vision + Robotics" width="100%" />
 </p>
 
 <p align="center"><strong>물체를 보고, 태그를 읽고, 목적지로 옮깁니다.</strong></p>
